@@ -3,11 +3,13 @@
 members = [
 	"listing_4_11_init_structs",
 	"listing_4_12_extract_structs",
-	"listing_4_13_tupel_structs",
+	"listing_4_13_tuple_structs",
 	"listing_4_14_enums",
 	"listing_4_15_enum_types",
 	"listing_5_01_match_scalar",
 	"listing_5_02_match_return",
 	"listing_5_03_match_if",
 	"listing_5_04_match_assign",
+	"listing_5_05_match_at",
+	"listing_5_06_match_tuple",
 ]
