@@ -6,4 +6,8 @@ members = [
 	"listing_4_13_tupel_structs",
 	"listing_4_14_enums",
 	"listing_4_15_enum_types",
+	"listing_5_01_match_scalar",
+	"listing_5_02_match_return",
+	"listing_5_03_match_if",
+	"listing_5_04_match_assign",
 ]
