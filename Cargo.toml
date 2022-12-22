@@ -17,4 +17,5 @@ members = [
 	"listing_5_09_if_let",
 	"listing_5_10_while_let",
 	"listing_5_11_matches_macro",
+	"listing_7_08_mut_var_with_ref",
 ]
