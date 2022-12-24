@@ -24,7 +24,7 @@ fn expect<T>(opt: MyOption<T>) -> T {
 }
 
 fn main() {
-    let opt = MyOption::Some(3.14_f32);
+    let opt = MyOption::Some(3.141_f32);
     let val = expect(opt);
     println!("{}", val);
 
