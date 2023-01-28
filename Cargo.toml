@@ -21,4 +21,5 @@ members = [
 	"listing_8_01_type_param_structs",
 	"listing_8_03_type_param_with_enum",
 	"listing_9_01_methods_struct",
+	"listing_9_02_methods_type_param_with_enum",
 ]
